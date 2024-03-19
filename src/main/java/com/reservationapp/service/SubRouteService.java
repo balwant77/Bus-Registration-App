@@ -72,6 +72,4 @@ public class SubRouteService {
         return subRouteDto;
     }
 
-
-
 }
